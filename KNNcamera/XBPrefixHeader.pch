@@ -1,0 +1,17 @@
+//
+//  XBPrefixHeader.pch
+//  xueban
+//
+//  Created by dang on 16/6/10.
+//  Copyright © 2016年 dang. All rights reserved.
+//
+
+#ifndef XBPrefixHeader_pch
+#define XBPrefixHeader_pch
+
+#import "UIColor+expanded.h"
+
+#define SCREENHEIGHT [UIScreen mainScreen].bounds.size.height
+#define SCREENWIDTH  [UIScreen mainScreen].bounds.size.width
+
+#endif /* XBPrefixHeader_pch */
